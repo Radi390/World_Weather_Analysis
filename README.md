@@ -10,7 +10,7 @@ This project is designed to help customers find their preferred locations and he
 
 Two thousand random latitudes and longitudes are generated, retrieve the nearest city by the Citypy library, and perform an API call with the [OpenWeatherMap](https://openweathermap.org/api). API is used to retrieve the current weather description for each town
 
-Finally, to plot the map and visualize the cities' temperature, routes, and details, I used [google maps API](https://public.tableau.com/app/profile/radman.ghafoorie/viz/CitiBike_16431620179410/Story#1).
+Finally, to plot the map and visualize the cities' temperature, routes, and details, I used [google maps API](https://developers.google.com/maps).
 
 ![This is an image](/Vacation_Search/WeatherPy_vacation_map.png)
 ![This is an image](/Vacation_Itinerary/WeatherPy_travel_map.png)
